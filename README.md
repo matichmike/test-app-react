@@ -1,4 +1,22 @@
 # HAPI FHIR Playground: Basic Test App
+React App for querying data from HAPI FHIR test server using Material UI and React-Loader-Spinner
+
+# Work In Progress
+
+## Setup 
+Clone the repository
+<br/>
+Run npm install
+<br/>
+The page will be served at http://localhost:3000/
+<br/>
+
+## Preview
+![“Sample Screenshot”](https://github.com/matichmike/test-app-react/blob/master/screenshots/screenshot.png?raw=true)
+<br/>
+<br/>
+
+# HAPI FHIR Playground: Basic Test App
 
 This project is a skeleton project for querying data from the [HAPI FHIR public test server](http://hapi.fhir.org/baseR4)
 
